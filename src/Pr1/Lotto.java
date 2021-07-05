@@ -9,9 +9,9 @@ import javax.swing.JPanel;
 public class Lotto extends JFrame {
 	public Lotto() {
 		JPanel pnl = new JPanel();
-		ImageIcon icon = new ImageIcon("images/Logo.png"); // 로고
+		ImageIcon icon = new ImageIcon("images/Logo.png"); // 로고.
 		JLabel lbl = new JLabel(icon);
-
+		
 		pnl.add(lbl);
 		add(pnl);
 		pnl.setBackground(Color.WHITE); // 배경 흰색
