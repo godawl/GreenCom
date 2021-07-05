@@ -29,7 +29,7 @@ public class Lotto extends JFrame {
 
 	public static void main(String[] args) {
 		new Lotto();
-		System.out.println("find!");
+		System.out.println("find!!");
 	}
 
 }
